@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.14.36518.9
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ITTicketing.Backend", "ITTicketing.Backend\ITTicketing.Backend.csproj", "{2C6C1622-425C-42EA-8B6D-7CEE68C0D80A}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ITTicketing.Tests", "..\..\ITTicketing.Tests\ITTicketing.Tests\ITTicketing.Tests.csproj", "{7C0DBA40-6BEB-00E1-2028-D9D194B86C20}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{2C6C1622-425C-42EA-8B6D-7CEE68C0D80A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{2C6C1622-425C-42EA-8B6D-7CEE68C0D80A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{2C6C1622-425C-42EA-8B6D-7CEE68C0D80A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{2C6C1622-425C-42EA-8B6D-7CEE68C0D80A}.Release|Any CPU.Build.0 = Release|Any CPU
+		{7C0DBA40-6BEB-00E1-2028-D9D194B86C20}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{7C0DBA40-6BEB-00E1-2028-D9D194B86C20}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{7C0DBA40-6BEB-00E1-2028-D9D194B86C20}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{7C0DBA40-6BEB-00E1-2028-D9D194B86C20}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {1A6EBDE4-8020-464B-B41B-76E83AC16243}
+	EndGlobalSection
+EndGlobal
